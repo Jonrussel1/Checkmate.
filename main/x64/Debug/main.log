@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Jonrussel\Downloads\main\External\SFML\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.44.34918\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      C:\Users\Jonrussel\Downloads\main\External\SFML\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\Jonrussel\Downloads\main\main\main.cpp(19,29): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Jonrussel\Downloads\main\main\main.cpp(22,29): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Jonrussel\Downloads\main\main\main.cpp(61,37): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Jonrussel\Downloads\main\main\main.cpp(65,37): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Jonrussel\Downloads\main\main\main.cpp(80,37): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Jonrussel\Downloads\main\main\main.cpp(105,37): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Jonrussel\Downloads\main\main\main.cpp(109,37): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Jonrussel\Downloads\main\main\main.cpp(124,37): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Jonrussel\Downloads\main\main\main.cpp(97,9): warning C4102: 'startMed': unreferenced label
+  main.vcxproj -> C:\Users\Jonrussel\Downloads\main\x64\Debug\main.exe
